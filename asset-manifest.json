@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/enem-flash-cards/static/css/main.4934a958.css",
+    "main.js": "/enem-flash-cards/static/js/main.8e0bac72.js",
+    "index.html": "/enem-flash-cards/index.html",
+    "main.4934a958.css.map": "/enem-flash-cards/static/css/main.4934a958.css.map",
+    "main.8e0bac72.js.map": "/enem-flash-cards/static/js/main.8e0bac72.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4934a958.css",
+    "static/js/main.8e0bac72.js"
+  ]
+}
